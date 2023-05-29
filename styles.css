@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    background-color: #eee;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+
+.image-container {
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Norman-image {
+    text-align: center;
+    width: 1000px;
+}
+
+.caption {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time-line {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 24px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    width: 600px;
+}
+
+#closure-quote {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+}
